@@ -1,0 +1,80 @@
+[
+    {
+      "id": "1",
+      "title": "Mouse",
+      "description": "Mouse óptico de 3 botones, con cable USB.",
+      "code": "M001",
+      "price": 50000,
+      "status": true,
+      "stock": 100,
+      "category": "Electrónica",
+      "thumbnails": ["ruta-imagen-mouse-1", "ruta-imagen-mouse-2"]
+    },
+    {
+      "id": "2",
+      "title": "Teclado",
+      "description": "Teclado mecánico con retroiluminación RGB.",
+      "code": "T001",
+      "price": 60000,
+      "status": true,
+      "stock": 50,
+      "category": "Electrónica",
+      "thumbnails": ["ruta-imagen-teclado-1", "ruta-imagen-teclado-2"]
+    },
+    {
+      "id": "3",
+      "title": "Monitor 24 pulgadas",
+      "description": "Monitor Full HD de 24 pulgadas con tecnología IPS.",
+      "code": "M002",
+      "price": 180000,
+      "status": true,
+      "stock": 30,
+      "category": "Electrónica",
+      "thumbnails": ["ruta-imagen-monitor-1", "ruta-imagen-monitor-2"]
+    },
+    {
+      "id": "4",
+      "title": "Auriculares",
+      "description": "Auriculares estéreo con cancelación de ruido y micrófono.",
+      "code": "A001",
+      "price": 80000,
+      "status": true,
+      "stock": 150,
+      "category": "Electrónica",
+      "thumbnails": ["ruta-imagen-auriculares-1", "ruta-imagen-auriculares-2"]
+    },
+    {
+      "id": "5",
+      "title": "Silla Gamer",
+      "description": "Silla ergonómica para gamer, con soporte lumbar y reposabrazos ajustables.",
+      "code": "S001",
+      "price": 300000,
+      "status": true,
+      "stock": 25,
+      "category": "Muebles",
+      "thumbnails": ["ruta-imagen-silla-1", "ruta-imagen-silla-2"]
+    },
+    {
+      "id": "6",
+      "title": "Mousepad RGB",
+      "description": "Mousepad con iluminación RGB personalizable.",
+      "code": "M003",
+      "price": 20000,
+      "status": true,
+      "stock": 80,
+      "category": "Accesorios",
+      "thumbnails": ["ruta-imagen-mousepad-1", "ruta-imagen-mousepad-2"]
+    },
+    {
+      "id": "7",
+      "title": "Webcam HD",
+      "description": "Webcam HD 1080p con micrófono integrado para videollamadas.",
+      "code": "W001",
+      "price": 40000,
+      "status": true,
+      "stock": 80,
+      "category": "Electrónica",
+      "thumbnails": ["ruta-imagen-webcam-1", "ruta-imagen-webcam-2"]
+    }
+  ]
+  
